@@ -67,3 +67,7 @@ export class GameState {
     };
   }
 }
+
+export const testPlayState: PlayingState = {
+  isPaused: true,
+};
